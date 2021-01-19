@@ -1,5 +1,4 @@
 # CNN-Dog-Cat-Classification
 
-This repository has two branches: Tensorflow and PyTorch. 
+Welcome to the TensorFlow branch. The CNN here was made using the Tensorflow and Keras libraries.
 
-As such, a CNN for a Cat-Dog classifier was made using each library to compare results.
