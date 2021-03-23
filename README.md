@@ -7,3 +7,9 @@ Similarly, check out the PyTorch branch for the CNN written using PyTorch librar
 Lastly, the AlexNet branch shows the implementation of AlexNet using PyTorch library.
 
 Please find the dataset here: https://www.kaggle.com/c/dogs-vs-cats
+
+
+Please find Portfolio links to each here:
+
+https://hjmok.github.io/josephmok_portfolio/#/CNN
+https://hjmok.github.io/josephmok_portfolio/#/AlexNet
