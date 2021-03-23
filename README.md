@@ -12,4 +12,5 @@ Please find the dataset here: https://www.kaggle.com/c/dogs-vs-cats
 Please find Portfolio links to each here:
 
 https://hjmok.github.io/josephmok_portfolio/#/CNN
+
 https://hjmok.github.io/josephmok_portfolio/#/AlexNet
